@@ -1,0 +1,9 @@
+﻿  ConsoleApplication18.cpp
+C:\Users\lai27\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(30,20): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\lai27\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(37,16): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\lai27\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(46,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\lai27\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(50,26): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\lai27\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(58,35): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\lai27\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(61,37): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\lai27\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(66,22): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  ConsoleApplication18.vcxproj -> C:\Users\lai27\source\repos\ConsoleApplication18\x64\Debug\ConsoleApplication18.exe
